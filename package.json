@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oniwork23/nodejsrestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "oni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oniwork23/nodejsrestapi/issues"
+  },
+  "homepage": "https://github.com/oniwork23/nodejsrestapi#readme"
+}
